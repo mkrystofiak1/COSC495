@@ -1,0 +1,129 @@
+Author: Mitchell Krystofiak
+Date: May 3, 2021
+
+Here are some statistics on the Nitrogen pollution.
+
+Highest Polluting Crops By Frequency (# of Years)
+Years 1961 - 2015
+-------------------------------------------------
+
+World Wide:
+	
+	1.  Sugar cane             = 3308 = 31.13% 
+	2.  Maize                  = 1335 = 12.56%
+	3.  Rice; paddy            = 809  = 07.61%
+	4.  Peas; green            = 610  = 05.74%
+	5.  Bananas                = 427  = 04.08%
+	6.  Groundnuts; with shell = 362  = 03.41%
+	7.  Sugar beet             = 332  = 03.12%
+	8.  Beans; green           = 318  = 02.99%
+	9.  Wheat                  = 286  = 02.69%
+	10. Fruit Fresh Nes        = 254  = 02.39%
+
+China:
+
+	1. Peas; green = 25 = 45.45%
+	2. Sugar cane  = 19 = 34.55%
+	3. Vanilla     = 11 = 20.00%
+
+USA:
+	
+	1. Peas; green = 55 = 100.00%
+
+Lowest Polluting Crops By Frequency (# of Years)
+Years 1961 - 2015
+------------------------------------------------
+
+World Wide:
+	
+	1. Tobacco; unmanufactured      = 2079 = 19.56%
+	2. Cabbages and other brassicas = 1050 = 09.88%
+	3. Spices; nes                  = 503  = 04.73%
+	4. Potatoes                     = 493  = 04.64%
+	5. Oil palm fruit               = 481  = 04.53%
+	6. Garlic                       = 403  = 03.79%
+	7. Mushrooms and truffles       = 403  = 03.79%
+	8. Ginger                       = 387  = 03.64%
+	9. Roots and Tubers; nes        = 360  = 03.39%
+	10 Seed cotton                  = 310  = 02.92%
+
+China: 
+	
+	1. Mushrooms and truffles = 31 = 56.36%
+	2. Sices; nes             = 24 = 43.64%
+
+USA:
+
+	1. Ginger                  = 31 = 56.36%
+	2. Tobacco; unmanufactured = 24 = 43.64%
+
+
+How much the Highest Polluting Crops impact N pollution
+-------------------------------------------------------
+
+World Wide:
+
+        Total N Pollution: 172347034.0142772
+
+				     N Contribution
+        1.  Sugar cane             = 34959240.12065787  = 20.28%
+        2.  Maize                  = 31836713.909436967 = 18.47%
+        3.  Rice; paddy            = 4616006.826477227  = 02.68%
+        4.  Peas; green            = 9749493.00489111   = 05.66%
+        5.  Bananas                = 7287942.832198481  = 04.23%
+        6.  Groundnuts; with shell = 2100706.739563461  = 01.22%
+        7.  Sugar beet             = 10718435.14695364  = 06.29%
+        8.  Beans; green           = 4251008.946388238  = 02.47%
+        9.  Wheat                  = 4508697.727350888  = 02.62%
+        10. Fruit Fresh Nes        = 2615252.5711645335 = 01.52%
+
+China:
+
+	Total N Pollution: 1230015.6810071103
+
+        1. Peas; green = 730672.2744212517  = 59.40%
+        2. Sugar cane  = 173302.85004206683 = 14.09%
+        3. Vanilla     = 326040.55654379155 = 26.51%
+
+USA:
+	
+	Total N Pollution: 1053913.7130464371
+	
+        1. Peas; green = 1053913.7130464371 = 100%
+
+
+How much the Lowest Polluting Crops impact N pollution
+------------------------------------------------------
+
+
+
+World Wide:
+	
+	Total N Pollution: 172347034.0142772	
+
+        1. Tobacco; unmanufactured      = -9341708.45245273  = -05.42%
+        2. Cabbages and other brassicas = -1444317.320326359 = -00.84%
+        3. Spices; nes                  = -23373949.6251413  = -13.56%
+        4. Potatoes                     = 1748049.916675632  =  01.01%
+        5. Oil palm fruit               = -912897.0050814848 = -00.535
+        6. Garlic                       = -3422414.59646175  = -01.99%
+        7. Mushrooms and truffles       = -52679183.94763603 = -30.57%
+        8. Ginger                       = -5076969.081687004 = -02.95%
+        9. Roots and Tubers; nes        = -296916.4196618972 = -00.17%
+        10. Seed cotton                 = -700969.2020659837 = -00.41%
+
+China:
+
+	Total N Pollution: 1230015.6810071103
+
+        1. Mushrooms and truffles = -1257723.0030921027 = -102.25%
+        2. Spices; nes            = -13002998.690205295 = 
+
+USA:
+
+	Total N Pollution: 1053913.7130464371
+
+        1. Ginger                  = -1343316.293377383
+        2. Tobacco; unmanufactured = -135650.74573339353
+
+
